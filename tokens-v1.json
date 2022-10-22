@@ -1,0 +1,37 @@
+{
+  "name": "SpaceDogeSwap List",
+  "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg",
+  "keywords": ["moonbase", "tokens", "spacedogeswap"],
+  "timestamp": "2022-05-10T00:00:00+00:00",
+  "tokens": [
+    {
+      "name": "Wrapped SDC",
+      "address": "0x52C5aC72F591BAfe82b6fDe6ac3a814c383a85FB",
+      "symbol": "WSDC",
+      "decimals": 18,
+      "chainId": 1337,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+    },
+     {
+      "name": "SKY",
+      "address": "0x36FEA218C22c4bd30e2A724EcA9998663a7CF90D",
+      "symbol": "SKY",
+      "decimals": 18,
+      "chainId": 1337,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+    },
+     {
+      "name": "Baby Doge Coin",
+      "address": "0x045da7D8DB82BcBDd052e8D6aE0a991D48838591",
+      "symbol": "BabyDogeCoin",
+      "decimals": 18,
+      "chainId": 1337,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
